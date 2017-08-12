@@ -2,6 +2,7 @@ package com.xs.test;
 
 public class TempTest {
 	//测试git文件是否有变动
+	//测试git分支
 	private void test1(A a) {
 		a.age = 20;
 		System.out.println("test1方法中的age=" + a.age);
