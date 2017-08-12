@@ -2,6 +2,7 @@ package com.xs.test;
 
 public class Test {
     public static void change(String s){
+        //test信息
         s="zhangsan";
     }
     
